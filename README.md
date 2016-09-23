@@ -1,0 +1,2 @@
+# RcView-HeaderAndFooterDecorator
+利用装饰者模式给RecycleView动态添加header和footer
